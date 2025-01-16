@@ -1,10 +1,10 @@
-# Nike-Website-clone
+# Nike-clone
 
 
 ## Description
-Nike website clone for educational purpose
+Nike website clone for learning purpose
 
-## What I used
+## Tech stack I used
 ### Backend
 * Express JS -
 MongoDB 
@@ -22,7 +22,7 @@ MongoDB
 
 
 
-## Usage
+## Command require to run the code
 ```sh
 npm install
 ```
