@@ -24,9 +24,9 @@ MongoDB
 
 ## Usage
 ```sh
-$ npm install
+npm install
 ```
 
 ```sh
-$ npm run start
+npm run start
 ```
